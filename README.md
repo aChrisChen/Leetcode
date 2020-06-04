@@ -33,7 +33,7 @@ My Leetcode Thoughts and Solutions
 
 ## 15.树 Tree
 ### BST
-[173. Binary Search Tree Iterator](https://github.com/aChrisChen/Leetcode/tree/master/src/_15_树_Tree/BST)
+[173. Binary Search Tree Iterator](https://github.com/aChrisChen/Leetcode/tree/master/src/_15_树_Tree/BST/_173_Binary_Search_Tree_Iterator)
 
 ## 16.树形结构
 
