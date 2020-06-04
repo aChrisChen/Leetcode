@@ -7,7 +7,7 @@ import java.util.Stack;
 /**
  * Project Name: Leetcode
  * Package Name: _15_树_Tree.BST
- * File Name: BSTIterator
+ * File Name: BSTIteratorSoln1
  * Creator: Jipeng Chen
  * Date: 6/4/20
  * Description: None
@@ -27,11 +27,11 @@ import java.util.Stack;
  *     }
  * }
  */
-class BSTIterator {
+class BSTIteratorSoln1 {
     Stack<TreeNode> stack;
     TreeNode cur;
 
-    public BSTIterator(TreeNode root) {
+    public BSTIteratorSoln1(TreeNode root) {
         this.stack = new Stack<>();
         this.cur = root;
     }
@@ -54,8 +54,8 @@ class BSTIterator {
 }
 
 /**
- * Your BSTIterator object will be instantiated and called as such:
- * BSTIterator obj = new BSTIterator(root);
+ * Your BSTIteratorSoln1 object will be instantiated and called as such:
+ * BSTIteratorSoln1 obj = new BSTIteratorSoln1(root);
  * int param_1 = obj.next();
  * boolean param_2 = obj.hasNext();
  */
