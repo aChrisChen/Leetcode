@@ -29,21 +29,21 @@ My Leetcode Thoughts and Solutions
 
 ## 13.回溯法 Backtracking
 
-[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)
+[1079. Letter Tile Possibilities](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_1079_Letter_Tile_Possibilities)
 
-[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+[216. Combination Sum III](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_216_Combination_Sum_III)
 
-[306. Additive Number](https://leetcode.com/problems/additive-number/)
+[306. Additive Number](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_306_Additive_Number)
 
-[357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+[357. Count Numbers with Unique Digits](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_357_Count_Numbers_with_Unique_Digits)
 
-[842. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)
+[842. Split Array into Fibonacci Sequence](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_842_Split_Array_into_Fibonacci_Sequence)
 
-[面试题 08.04. Power Set LCCI](https://leetcode-cn.com/problems/power-set-lcci/)
+[面试题 08.04. Power Set LCCI](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0804幂集)
 
-[面试题 08.08. Permutation II LCCI](https://leetcode-cn.com/problems/permutation-ii-lcci/)
+[面试题 08.08. Permutation II LCCI](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0808有重复字符串的排列组合)
 
-[面试题 08.12. 八皇后](https://leetcode-cn.com/problems/eight-queens-lcci/)
+[面试题 08.12. 八皇后](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0812八皇后)
 
 
 ## 14.图 Graph
@@ -59,3 +59,23 @@ My Leetcode Thoughts and Solutions
 ## 18.设计题 Design
 
 ## 19.动态规划 Dynamic Programming
+
+
+# STCA Coding Club
+## Week 25
+
+[1079. Letter Tile Possibilities](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_1079_Letter_Tile_Possibilities)
+
+[216. Combination Sum III](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_216_Combination_Sum_III)
+
+[306. Additive Number](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_306_Additive_Number)
+
+[357. Count Numbers with Unique Digits](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_357_Count_Numbers_with_Unique_Digits)
+
+[842. Split Array into Fibonacci Sequence](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_842_Split_Array_into_Fibonacci_Sequence)
+
+[面试题 08.04. Power Set LCCI](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0804幂集)
+
+[面试题 08.08. Permutation II LCCI](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0808有重复字符串的排列组合)
+
+[面试题 08.12. 八皇后](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0812八皇后)
