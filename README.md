@@ -29,6 +29,23 @@ My Leetcode Thoughts and Solutions
 
 ## 13.回溯法 Backtracking
 
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)
+
+[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+
+[306. Additive Number](https://leetcode.com/problems/additive-number/)
+
+[357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+
+[842. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)
+
+[面试题 08.04. Power Set LCCI](https://leetcode-cn.com/problems/power-set-lcci/)
+
+[面试题 08.08. Permutation II LCCI](https://leetcode-cn.com/problems/permutation-ii-lcci/)
+
+[面试题 08.12. 八皇后](https://leetcode-cn.com/problems/eight-queens-lcci/)
+
+
 ## 14.图 Graph
 
 ## 15.树 Tree
