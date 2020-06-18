@@ -1,5 +1,5 @@
 # STCA Coding Club
-## Week 25 回溯3
+## Week 25 回溯 3
 
 [1079. Letter Tile Possibilities](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_1079_Letter_Tile_Possibilities)
 
@@ -16,3 +16,6 @@
 [面试题 08.08. Permutation II LCCI](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0808有重复字符串的排列组合)
 
 [面试题 08.12. 八皇后](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0812八皇后)
+
+
+## Week26 String 2
