@@ -1,8 +1,8 @@
-package _8_字符串_String.基础and实现._58_Length_of_Last_Word;
+package _8_字符串_String.基础._58_Length_of_Last_Word;
 
 /**
  * Project Name: Leetcode
- * Package Name: _8_字符串_String.基础and实现._58_Length_of_Last_Word
+ * Package Name: _8_字符串_String.基础._58_Length_of_Last_Word
  * File Name: Solution
  * Creator: Jipeng Chen
  * Date: 6/18/20
