@@ -9,7 +9,7 @@ My Leetcode Thoughts and Solutions
 
 ### 加减乘除
 
-[415. Add Strings [E]](https://github.com/aChrisChen/Leetcode/tree/master/src/_2_数学题_Math/加减乘除/_415_Add_Strings) 
+[415. Add Strings (E)](https://github.com/aChrisChen/Leetcode/tree/master/src/_2_数学题_Math/加减乘除/_415_Add_Strings) 
 
 
 ## 3.数组题 Array
@@ -25,9 +25,9 @@ My Leetcode Thoughts and Solutions
 ## 8.字符串 String
 
 ## 基础
-[58. Length of Last Word [E]](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/基础/_58_Length_of_Last_Word) 
+[58. Length of Last Word (E)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/基础/_58_Length_of_Last_Word) 
 
-[521. Longest Uncommon Subsequence I [E]](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/基础/_521_Longest_Uncommon_Subsequence_I) 
+[521. Longest Uncommon Subsequence I (E)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/基础/_521_Longest_Uncommon_Subsequence_I) 
 
 ## 9.字符串 HashMap & Sliding Wndow(substring)
 
