@@ -35,6 +35,10 @@ My Leetcode Thoughts and Solutions
 
 ## 9.字符串 HashMap & Sliding Wndow(substring)
 
+### HashMap
+
+[966. Vowel Spellchecker (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_9_字符串_HashMap_Sliding_Wndow/HashMap/_966_Vowel_Spellchecker)
+
 ## 10.字符串 APPS
 
 ## 11.图形 Shape
