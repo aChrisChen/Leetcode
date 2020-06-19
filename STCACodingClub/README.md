@@ -30,3 +30,5 @@
 [966. Vowel Spellchecker (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_9_字符串_HashMap_Sliding_Wndow/HashMap/_966_Vowel_Spellchecker)
 
 [1177. Can Make Palindrome from Substring (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Palindrome)
+
+[1233. Remove Sub-Folders from the Filesystem (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/实现题/_1233_Remove_SubFolders_from_the_Filesystem)
