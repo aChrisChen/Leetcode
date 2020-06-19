@@ -29,6 +29,10 @@ My Leetcode Thoughts and Solutions
 
 [521. Longest Uncommon Subsequence I (E)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/基础/_521_Longest_Uncommon_Subsequence_I) 
 
+### 实现题
+
+[1233. Remove Sub-Folders from the Filesystem (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/实现题/_1233_Remove_SubFolders_from_the_Filesystem)
+
 ### 不重要
 
 [468. Validate IP Address (M-)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/不重要/_468_Validate_IP_Address)
