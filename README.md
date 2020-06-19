@@ -42,7 +42,7 @@ My Leetcode Thoughts and Solutions
 ## 10.字符串 APPS
 
 ### Palindrome
-[1177. Can Make Palindrome from Substring](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Palindrome)
+[1177. Can Make Palindrome from Substring (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Palindrome)
 
 ## 11.图形 Shape
 
