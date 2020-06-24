@@ -32,3 +32,13 @@
 [1177. Can Make Palindrome from Substring (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Palindrome)
 
 [1233. Remove Sub-Folders from the Filesystem (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/实现题/_1233_Remove_SubFolders_from_the_Filesystem)
+
+## Week27 Cards
+
+[914. X of a Kind in a Deck of Cards (E)](https://github.com/aChrisChen/Leetcode/tree/master/src/_11_图形_Shape/数学定理/_914_X_of_a_Kind_in_a_Deck_of_Cards)
+
+
+
+
+
+

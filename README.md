@@ -50,6 +50,9 @@ My Leetcode Thoughts and Solutions
 
 ## 11.图形 Shape
 
+### 数学定理
+[914. X of a Kind in a Deck of Cards (E)](https://github.com/aChrisChen/Leetcode/tree/master/src/_11_图形_Shape/数学定理/_914_X_of_a_Kind_in_a_Deck_of_Cards)
+
 ## 12.堆 Heap
 
 ## 13.回溯法 Backtracking
