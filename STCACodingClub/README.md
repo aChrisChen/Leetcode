@@ -48,3 +48,7 @@
 [950. Reveal Cards In Increasing Order]()
 
 [1007. Minimum Domino Rotations For Equal Row]()
+
+[1423. Maximum Points You Can Obtain from Cards]()
+
+[67. Add Binary]()
