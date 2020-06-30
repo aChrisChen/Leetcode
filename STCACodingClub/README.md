@@ -43,6 +43,8 @@
 
 [870. Advantage Shuffle](https://github.com/aChrisChen/Leetcode/tree/master/src/_12_堆_Heap/综合/_870_Advantage_Shuffle)
 
-[948. Bag of Tokens]()
+[948. Bag of Tokens](https://github.com/aChrisChen/Leetcode/tree/master/src/_3_数组题_Array/双向双指针/_948_Bag_of_Tokens)
 
+[950. Reveal Cards In Increasing Order]()
 
+[1007. Minimum Domino Rotations For Equal Row]()
