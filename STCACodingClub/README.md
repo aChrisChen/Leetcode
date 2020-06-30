@@ -37,7 +37,9 @@
 
 [914. X of a Kind in a Deck of Cards (E)](https://github.com/aChrisChen/Leetcode/tree/master/src/_11_图形_Shape/数学定理/_914_X_of_a_Kind_in_a_Deck_of_Cards)
 
+[1128. Number of Equivalent Domino Pairs](https://github.com/aChrisChen/Leetcode/tree/master/src/_3_数组题_Array/HashMap/_1128_Number_of_Equivalent_Domino_Pairs)
 
+[846. Hand of Straights]()
 
 
 
