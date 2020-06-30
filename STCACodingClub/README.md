@@ -39,7 +39,9 @@
 
 [1128. Number of Equivalent Domino Pairs](https://github.com/aChrisChen/Leetcode/tree/master/src/_3_数组题_Array/HashMap/_1128_Number_of_Equivalent_Domino_Pairs)
 
-[846. Hand of Straights]()
+[846. Hand of Straights](https://github.com/aChrisChen/Leetcode/tree/master/src/_3_数组题_Array/HashMap/_846_Hand_of_Straights)
+
+[870. Advantage Shuffle]()
 
 
 
