@@ -56,3 +56,15 @@
 ## Week28 Dynamic Programming 3
 
 [392. Is Subsequence](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Subsequence/_392_Is_Subsequence)
+
+[746. Min Cost Climbing Stairs]()
+
+[1025_Divisor_Game]()
+
+[1139. Largest 1-Bordered Square]()
+
+[740. Delete and Earn]()
+
+[464. Can I Win]()
+
+[523. Continuous Subarray Sum()

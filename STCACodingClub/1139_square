@@ -1,0 +1,35 @@
+class Solution:
+    def largest1BorderedSquare(self, grid: List[List[int]]) -> int:
+        left = [[0] * len(grid[0]) for _ in range(len(grid))]
+        up = [[0] * len(grid[0]) for _ in range(len(grid))]
+        currMax = 0
+
+        for row in range(len(grid)):
+            for col in range(len(grid[0])):
+                curr = grid[row][col]
+                if curr == 0:
+                    continue
+
+                left[row][col] = left[row][col-1] + 1
+                up[row][col] = up[row-1][col] + 1
+
+                curr1 = (row, col)
+                curr2 = (row, col)
+
+                i = 0
+
+                while self.inBounds(curr1, grid) and self.inBounds(curr2, grid):
+                    i += 1
+                    right = up[curr1[0]][curr1[1]]
+                    top = left[curr2[0]][curr2[1]]
+                    if right >= i and top >= i:
+                        currMax = max(currMax, i ** 2)
+
+                    curr1 = (curr1[0], curr1[1] - 1)
+                    curr2 = (curr2[0] - 1, curr2[1])
+
+
+        return currMax
+
+    def inBounds(self, curr, grid):
+        return 0 <= curr[0] < len(grid) and 0 <= curr[1] < len(grid[0]) and grid[curr[0]][curr[1]] == 1
