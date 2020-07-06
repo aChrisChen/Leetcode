@@ -57,14 +57,14 @@
 
 [392. Is Subsequence](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Subsequence/_392_Is_Subsequence)
 
-[746. Min Cost Climbing Stairs]()
+[746. Min Cost Climbing Stairs](https://github.com/aChrisChen/Leetcode/blob/master/STCACodingClub/_746_Min_Cost_Climbing_Stairs)
 
-[1025_Divisor_Game]()
+[1025_Divisor_Game](https://github.com/aChrisChen/Leetcode/blob/master/STCACodingClub/_1025_Divisor_Game)
 
-[1139. Largest 1-Bordered Square]()
+[1139. Largest 1-Bordered Square](https://github.com/aChrisChen/Leetcode/blob/master/STCACodingClub/1139_square)
 
-[740. Delete and Earn]()
+[740. Delete and Earn](https://github.com/aChrisChen/Leetcode/blob/master/STCACodingClub/_740_Delete_and_Earn)
 
-[464. Can I Win]()
+[464. Can I Win](https://github.com/aChrisChen/Leetcode/blob/master/STCACodingClub/_464_Can_I_Win)
 
-[523. Continuous Subarray Sum()
+[523. Continuous Subarray Sum](https://github.com/aChrisChen/Leetcode/blob/master/STCACodingClub/_523_Continuous_Subarray_Sum)
