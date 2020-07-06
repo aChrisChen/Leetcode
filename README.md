@@ -48,6 +48,10 @@ My Leetcode Thoughts and Solutions
 ### Palindrome
 [1177. Can Make Palindrome from Substring (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Palindrome)
 
+### Subsequence
+
+[392. Is Subsequence](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Subsequence/_392_Is_Subsequence)
+
 ## 11.图形 Shape
 
 ### 数学定理

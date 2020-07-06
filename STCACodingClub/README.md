@@ -55,3 +55,4 @@
 
 ## Week28 Dynamic Programming 3
 
+[392. Is Subsequence](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Subsequence/_392_Is_Subsequence)
