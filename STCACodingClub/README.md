@@ -57,7 +57,7 @@
 
 [392. Is Subsequence (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Subsequence/_392_Is_Subsequence)
 
-[746. Min Cost Climbing Stairs](https://github.com/aChrisChen/Leetcode/blob/master/STCACodingClub/_746_Min_Cost_Climbing_Stairs)
+[746. Min Cost Climbing Stairs (E)](https://github.com/aChrisChen/Leetcode/tree/master/src/_19_动态规划_Dynamic_Programming/时间序列型/_746_Min_Cost_Climbing_Stairs)
 
 [1025_Divisor_Game](https://github.com/aChrisChen/Leetcode/blob/master/STCACodingClub/_1025_Divisor_Game)
 
