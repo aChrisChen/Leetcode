@@ -77,6 +77,10 @@ My Leetcode Thoughts and Solutions
 
 [面试题 08.12. 八皇后](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0812八皇后)
 
+### search in an array
+
+[996. Additive Number](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_996_Number_of_Squareful_Arrays)
+
 
 ## 14.图 Graph
 
