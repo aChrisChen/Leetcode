@@ -79,7 +79,7 @@ My Leetcode Thoughts and Solutions
 
 ### search in an array
 
-[698. Partition to K Equal Sum Subsets](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_698_Partition_to_K_Equal_Sum Subsets) (H-)
+[698. Partition to K Equal Sum Subsets](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_698_Partition_to_K_Equal_Sum_Subsets) (H-)
 
 [996. Additive Number](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_996_Number_of_Squareful_Arrays) (H-)
 
