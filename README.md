@@ -96,7 +96,7 @@ My Leetcode Thoughts and Solutions
 
 ## 17.贪心算法 Greedy
 
-[1686. Stone Game VI](https://github.com/aChrisChen/Leetcode/tree/master/src/_17_贪心算法/_1686_Stone_Game_VI) 
+[1686. Stone Game VI](https://github.com/aChrisChen/Leetcode/tree/master/src/_17_贪心算法_Greedy/_1686_Stone_Game_VI) 
 
 ## 18.设计题 Design
 
