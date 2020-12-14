@@ -36,24 +36,20 @@ My Leetcode Thoughts and Solutions
 
 [1233. Remove Sub-Folders from the Filesystem (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/实现题/_1233_Remove_SubFolders_from_the_Filesystem)
 
-### 不重要
-
-[468. Validate IP Address (M-)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/不重要/_468_Validate_IP_Address)
-
-## 9.字符串 HashMap & Sliding Wndow(substring)
-
 ### HashMap
 
-[966. Vowel Spellchecker (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_9_字符串_HashMap_Sliding_Wndow/HashMap/_966_Vowel_Spellchecker)
-
-## 10.字符串 APPS
+[966. Vowel Spellchecker (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/_966_Vowel_Spellchecker)
 
 ### Palindrome
-[1177. Can Make Palindrome from Substring (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Palindrome)
+[1177. Can Make Palindrome from Substring (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/_1177_Can_Make_Palindrome_from_Substring)
 
 ### Subsequence
 
-[392. Is Subsequence](https://github.com/aChrisChen/Leetcode/tree/master/src/_10_字符串_APPS/Subsequence/_392_Is_Subsequence)
+[392. Is Subsequence](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/_392_Is_Subsequence)
+
+### 不重要
+
+[468. Validate IP Address (M-)](https://github.com/aChrisChen/Leetcode/tree/master/src/_8_字符串_String/不重要/_468_Validate_IP_Address)
 
 ## 11.图形 Shape
 

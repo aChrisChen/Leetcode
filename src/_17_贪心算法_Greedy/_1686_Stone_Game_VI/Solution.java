@@ -15,9 +15,9 @@ class Solution {
         int a = 0, b = 0;
         for (int i = 0; i < N; i++) {
             if (i % 2 == 0) {
-                a += sums[i][1]; // 这里也可以使用 sums[i][0]
+                a += sums[i][1]; 
             } else {
-                b += sums[i][2]; // 这里也可以使用 sums[i][0]
+                b += sums[i][2];
             }
         }
         return Integer.compare(a, b);
