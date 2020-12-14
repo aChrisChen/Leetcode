@@ -14,6 +14,9 @@ My Leetcode Thoughts and Solutions
 
 ## 3.数组题 Array
 
+### Sort
+
+
 ## 4.二分查找 Binary Search
 
 ## 5.链表 LinkedList
@@ -83,7 +86,6 @@ My Leetcode Thoughts and Solutions
 
 [996. Additive Number](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_996_Number_of_Squareful_Arrays) (H-)
 
-
 ## 14.图 Graph
 
 ## 15.树 Tree
@@ -93,6 +95,8 @@ My Leetcode Thoughts and Solutions
 ## 16.树形结构
 
 ## 17.贪心算法 Greedy
+
+[1686. Stone Game VI](https://github.com/aChrisChen/Leetcode/tree/master/src/_17_贪心算法/_1686_Stone_Game_VI) 
 
 ## 18.设计题 Design
 
