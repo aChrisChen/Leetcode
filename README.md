@@ -98,7 +98,7 @@ My Leetcode Thoughts and Solutions
 
 ## 19.动态规划 Dynamic Programming
 
-[1691. Maximum Height by Stacking Cuboids](https://github.com/aChrisChen/Leetcode/tree/master/src/_19_动态规划_Dynamic_Programming/_1691_maximum_height_by_stacking_cuboids/)
+[1691. Maximum Height by Stacking Cuboids](https://github.com/aChrisChen/Leetcode/tree/master/src/_19_动态规划_Dynamic_Programming/_1691_Maximum_Height_by_Stacking_Cuboids)
 
 
 ### DP + Sliding Window
