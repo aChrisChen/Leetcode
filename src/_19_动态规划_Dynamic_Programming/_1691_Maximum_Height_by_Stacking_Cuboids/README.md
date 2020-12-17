@@ -5,7 +5,7 @@ LIS 的升级版。
 参考：
 
 - [lee215 的回答](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/discuss/970293/JavaC%2B%2BPython-DP-Prove-with-Explanation)
-- [wisdompeak的github，解释了intuition，为啥greedy不可](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1687.Delivering-Boxes-from-Storage-to-Ports)
+
 
 Intuition:
 
