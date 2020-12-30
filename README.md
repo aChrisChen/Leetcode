@@ -107,3 +107,8 @@ My Leetcode Thoughts and Solutions
 
 [1687. Delivering Boxes from Storage to Ports](https://github.com/aChrisChen/Leetcode/tree/master/src/_19_动态规划_Dynamic_Programming/_1687_Delivering_Boxes_from_Storage_to_Ports)
 
+## 20.其他
+
+### 模拟 Simulation
+
+[1706. Where Will the Ball Fall](https://github.com/aChrisChen/Leetcode/tree/master/src/_20_其他_Other/_1706_Where_Will_the_Ball_Fall)
