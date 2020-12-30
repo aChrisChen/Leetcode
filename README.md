@@ -58,7 +58,7 @@ My Leetcode Thoughts and Solutions
 
 ## 12.堆 Heap
 
-
+[1705. Maximum Number of Eaten Apples (M)](https://github.com/aChrisChen/Leetcode/tree/master/src/_12_堆_Heap/_1705_Maximum_Number_of_Eaten_Apples)
 
 ## 13.回溯法 Backtracking
 
