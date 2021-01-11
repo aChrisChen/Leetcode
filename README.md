@@ -96,6 +96,8 @@ My Leetcode Thoughts and Solutions
 
 [1686. Stone Game VI](https://github.com/aChrisChen/Leetcode/tree/master/src/_17_贪心算法_Greedy/_1686_Stone_Game_VI) 
 
+[1717. Maximum Score From Removing Substrings](https://github.com/aChrisChen/Leetcode/tree/b9d0d40d40e5b973f91cc5032de360a64653e14e/src/_17_贪心算法_Greedy/_1717_Maximum_Score_From_Removing_Substrings) (M+)
+
 ## 18.设计题 Design
 
 ## 19.动态规划 Dynamic Programming
