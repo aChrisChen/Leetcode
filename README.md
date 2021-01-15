@@ -79,7 +79,8 @@ My Leetcode Thoughts and Solutions
 [面试题 08.12. 八皇后](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0812八皇后)
 
 ### Prune
-#### HashSet
+#### Symmetry Breaking (HashSet)
+[1723. Find Minimum Time to Finish All Jobs](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_%E5%9B%9E%E6%BA%AF%E6%B3%95_Backtracking/_1723_Find_Minimum_Time_to_Finish_All_Jobs)
 
 
 ### search in an array
