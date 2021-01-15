@@ -78,6 +78,10 @@ My Leetcode Thoughts and Solutions
 
 [面试题 08.12. 八皇后](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0812八皇后)
 
+### Prune
+#### HashSet
+
+
 ### search in an array
 
 [698. Partition to K Equal Sum Subsets](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_698_Partition_to_K_Equal_Sum_Subsets) (H-)
