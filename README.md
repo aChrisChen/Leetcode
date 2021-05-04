@@ -70,6 +70,8 @@ My Leetcode Thoughts and Solutions
 
 [357. Count Numbers with Unique Digits](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_357_Count_Numbers_with_Unique_Digits)
 
+[753. Cracking the Safe](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_753_Cracking_the_Safe)
+
 [842. Split Array into Fibonacci Sequence](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/_842_Split_Array_into_Fibonacci_Sequence)
 
 [面试题 08.04. Power Set LCCI](https://github.com/aChrisChen/Leetcode/tree/master/src/_13_回溯法_Backtracking/面试题0804幂集)
